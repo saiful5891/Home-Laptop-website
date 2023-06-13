@@ -1,0 +1,25 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    color:block;
+    }
+    id : one person
+           class : group get
+            h1{
+                color:brown;
+            }
+            img{
+                width: 100%;
+            }
+            #pro{
+                color: blue;
+            }
+            .big{
+                color: aqua;
+            }
+            h1.big{
+                color: bisque;
+            }
